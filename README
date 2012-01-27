@@ -1,0 +1,6 @@
+As a developer, you know that the first impression of a development framework is how easy it is to write "Hello, World." Well, on Android, it's pretty easy. It's particularly easy if you're using Eclipse as your IDE, because we've provided a great plugin that handles your project creation and management to greatly speed up your development cycles.
+
+This tutorial assumes that you're using Eclipse. If you're using the command line, see Building and Running from the Command Line. You can then return to this tutorial and ignore anything about Eclipse.
+
+Before you start, you should already have the SDK installed, and if you're using Eclipse, you should have installed the ADT plugin as well. If you have not installed these, see Installing the Android SDK and return here when you've completed the installation.
+
